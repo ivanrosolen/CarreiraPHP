@@ -35,8 +35,7 @@ objetivo de localizar erros e otimizar os códigos;
 	- Composite;
 	- Strategy;
 	- State.
-- Codifica seguindo ao menos KISS (keep it simple, stupid), DRY (don't repeat yourself),
-SRP (single responsability principle) e DIP (dependency inversion principle);
+- Codifica seguindo ao menos KISS (keep it simple, stupid) e SOLID.
 - Possui entendimento básico e aplica as regras de clean code e object calisthenics;
 - Domina as PSRs básicas (PSR­0, PSR­1 e PSR­2);
 - Sabe as distinções entre PEAR e o Composer (e sabe utilizar ambos);
